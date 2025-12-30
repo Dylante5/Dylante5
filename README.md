@@ -27,6 +27,4 @@ API testing with Postman, and game prototyping with Godot.
 - Full-stack web applications (Django, React, PostgreSQL)
 - AWS-hosted systems (App Runner, EC2, RDS, IAM)
 - GxP & 21 CFR Part 11–aligned software
-- Linux systems programming (C, sockets, syscalls)
-- Security & cryptography (PKI, encryption, MITM labs)
 - Desktop & internal tools for operational efficiency
